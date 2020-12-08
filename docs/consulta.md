@@ -41,7 +41,7 @@ Por ejemplo, **Q91101465** "Retablo cerámico de Santa Teresa de Jesús en el Co
 
 ## P1435 sirve para decir que es un monumento
 
-**P1435** es la propiedad de Wikidata “estatus patrimonial”. Cuando decimos que el "Patio de los Silos de Burjassot" (**Q5789714**) es Bien de Interés Cultural, lo que decimos en Wikidata es que su **P1435** es **Q23712**.
+[**P1435** es la propiedad de Wikidata “estatus patrimonial”](https://www.wikidata.org/wiki/Property:P1435). Cuando decimos que el "Patio de los Silos de Burjassot" (**Q5789714**) es Bien de Interés Cultural, lo que decimos en Wikidata es que su **P1435** es **Q23712**.
 
 Veréis que para **P1435** hemos tenido que hacer una virguería con varias líneas:
 
@@ -53,7 +53,7 @@ Veréis que para **P1435** hemos tenido que hacer una virguería con varias lín
       {?item wdt:P1435 wd:Q41477381.}
     }`
 
-Eso es porque hay monumentos con diferentes estatus patrimoniales. Para la Comunidad Valenciana uso tres: **Q23712** (Bien de Interés Cultural), **Q11910247** (Bien de Relevancia Local) y **Q41477381** (Bien Inmueble de Etnología). Los últimos dos grupos son propios de la Comunidad Valenciana. **Q23712** es el identificador de Bien de Interés Cultural (BIC) en España. De la misma forma podéis añadir los estatus que creáis convenientes para la comunidad o ámbito que os interese. Simplemente añadid, eliminad o modificad líneas.
+Eso es porque hay monumentos con diferentes estatus patrimoniales. Para la Comunidad Valenciana uso tres: **Q23712** (Bien de Interés Cultural), **Q11910247** (Bien de Relevancia Local) y **Q41477381** (Bien Inmueble de Etnología). Los últimos dos grupos son propios de la Comunidad Valenciana. [**Q23712** es el identificador de Bien de Interés Cultural (BIC) en España](https://www.wikidata.org/wiki/Q23712). De la misma forma podéis añadir los estatus que creáis convenientes para la comunidad o ámbito que os interese. Simplemente añadid, eliminad o modificad líneas.
 
 Algunos valores que no se han usado en el ejemplo pero que os pueden interesar son:
 
