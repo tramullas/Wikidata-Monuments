@@ -1,0 +1,12 @@
+site_name: Listas de monumentos con Wikidata Query Service
+site_author: B25es
+site_author: Tramullas
+
+nav:
+- Inicio: index.md
+- Acceder a Wikidata Query Service: acceso.md
+- Formular una consulta: consulta.md
+- Usar los resultados: uso.md
+
+theme: readthedocs
+
